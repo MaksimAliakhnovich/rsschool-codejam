@@ -1,0 +1,26 @@
+{
+  "name": "rsschool-codejam",
+  "version": "1.0.0",
+  "description": "rsschool-codejam",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint recursion.js sumOfOther.js make.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaksimAliakhnovich/rsschool-codejam.git"
+  },
+  "author": "Maksim Aliakhnovich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaksimAliakhnovich/rsschool-codejam/issues"
+  },
+  "homepage": "https://github.com/MaksimAliakhnovich/rsschool-codejam#readme",
+  "devDependencies": {
+    "babel-eslint": "^8.2.6",
+    "eslint": "^5.8.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
